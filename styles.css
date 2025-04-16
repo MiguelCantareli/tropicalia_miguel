@@ -8,10 +8,11 @@
 body {
     font-size: 1rem;
     font-family: 'Montserrat';
+    background-color: #99bdf3;
 }
 
 header {
-    background-color: #37e5ee;
+    background-color: #04adb6;
 }
 
 
@@ -135,5 +136,5 @@ h2 {
 }
 
 .form-control {
-    background-color: #baecf0;
+    background-color: #d7f1f3;
 }
